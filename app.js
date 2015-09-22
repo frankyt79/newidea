@@ -8,7 +8,7 @@
 	ControllerController.$inject = ['$log'];
 	function ControllerController(dependency1) {
 		var vm = this;
-		vm.title = "Hello World";
+		vm.title = "Hello you";
 
 		activate();
 
